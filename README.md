@@ -1,3 +1,5 @@
+📈 Stock Market Analysis Dashboard
+
 🎯 Overview
 This project analyzes 3 months of historical stock price data (February - May 2023) for four major technology companies:
 
