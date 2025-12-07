@@ -1,6 +1,6 @@
-📈 Stock Market Analysis Dashboard
+#📈 Stock Market Analysis Dashboard
 
-🎯 Overview
+##🎯 Overview
 This project analyzes 3 months of historical stock price data (February - May 2023) for four major technology companies:
 
 Apple (AAPL)
@@ -16,7 +16,7 @@ Correlation matrix
 Risk-return metrics (Sharpe ratio)
 Volume-price relationships
 
-🎓 Project Context
+##🎓 Project Context
 Developed as part of a Business Analyst Internship to demonstrate:
 
 SQL proficiency for financial data analysis
@@ -25,7 +25,7 @@ Business insights and recommendations
 Technical and fundamental analysis capabilities
 
 
-✨ Features
+##✨ Features
 Data Processing & Analysis
 
 ✅ SQL-based data pipeline for efficient data storage and querying
@@ -34,7 +34,7 @@ Data Processing & Analysis
 ✅ Performance metrics including total return, risk scores, and Sharpe ratios
 ✅ Volume analysis to identify trading patterns and liquidity
 
-Visualization & Reporting
+##Visualization & Reporting
 
 ✅ 2 interactive Power BI dashboards:
 
@@ -48,7 +48,7 @@ Technical & Risk Analysis
 ✅ Dynamic filtering by stock ticker and date range
 ✅ Mobile-responsive layouts
 
-Business Intelligence
+##Business Intelligence
 
 ✅ Comprehensive business recommendations report
 ✅ Investment strategy guidelines
