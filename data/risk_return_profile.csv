@@ -1,0 +1,5 @@
+ticker,avg_daily_return,daily_volatility,worst_day,best_day
+AAPL,0.1992,1.4036,-2.6680,4.6927
+MSFT,0.2606,1.7734,-2.6623,7.2435
+NFLX,-0.1676,2.2296,-4.4934,9.0065
+GOOG,-0.0068,2.0539,-7.4417,4.6815

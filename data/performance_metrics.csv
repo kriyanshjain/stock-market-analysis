@@ -1,0 +1,5 @@
+ticker,starting_price,ending_price,total_return_pct,lowest_price,highest_price,price_range_pct
+AAPL,154.65,173.57,12.23,145.31,173.57,19.45
+GOOG,108.04,106.21,-1.69,89.35,109.46,22.51
+MSFT,267.56,310.65,16.10,246.27,310.65,26.14
+NFLX,362.95,322.76,-11.07,292.76,366.83,25.30
